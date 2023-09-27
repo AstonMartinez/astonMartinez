@@ -34,22 +34,6 @@ I'm deeply passionate about advocacy and activism, particularly in the healthcar
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!--START_SECTION:waka-->
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: waka_8f5f2c11-4335-415c-8270-3615d95f36d3
-          GH_TOKEN: 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
 <!--END_SECTION:waka-->
 
 #### My Top Advocacy Articles
