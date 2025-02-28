@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I'm a native Texan, a proud wife, and a mom of three wonderful kids. My professional journey has led me to the fascinating world of software engineering. I'm captivated by how it seamlessly blends creativity, functionality, and intricate problem-solving. I also find it deeply rewarding to be able to turn an idea - something that didn't exist before - into something tangible.
+I'm a native Texan and a mom of three wonderful kids. My professional journey has led me to the fascinating world of software engineering. I'm captivated by how it seamlessly blends creativity, functionality, and intricate problem-solving. I also find it deeply rewarding to be able to turn an idea - something that didn't exist before - into something tangible.
 
 In my free time, you'll often find me immersed in the world of gaming. I'm an avid gamer and enjoy the thrill of exploration, deep lore, and competition.
 
